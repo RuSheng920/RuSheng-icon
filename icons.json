@@ -1,0 +1,18 @@
+{
+  "name": "icons",
+  "description": "自用图标",
+  "icons": [
+    {
+      "name": "一分机场",
+      "url": "https://raw.githubusercontent.com/RuSheng920/RuSheng-icon/raw/refs/heads/main/vpn/一分机场.jpg"
+    },
+    {
+      "name": "赔钱机场",
+      "url": "https://raw.githubusercontent.com/RuSheng920/RuSheng-icon/raw/refs/heads/main/vpn/赔钱机场.jpg"
+    },
+    {
+      "name": "良心云",
+      "url": "https://raw.githubusercontent.com/RuSheng920/RuSheng-icon/raw/refs/heads/main/vpn/良心云.jpg"
+    },
+  ]
+}
